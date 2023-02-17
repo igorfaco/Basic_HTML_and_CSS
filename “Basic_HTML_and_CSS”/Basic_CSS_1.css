@@ -1,0 +1,18 @@
+<style>
+    .My_style {
+        background-color: rgb(112, 19, 90);
+        color: aquamarine ;
+        text-decoration: underline;
+        font-weight: bold;
+        font: normal 20pt Comic ; 
+    }
+
+    .font_2 {
+            background-color: rgb(98, 112, 19);
+            color: rgb(21, 24, 182) ;
+            font: normal 30pt Arial ;
+        }
+    h1{ 
+        color: black;
+    }
+</style>
